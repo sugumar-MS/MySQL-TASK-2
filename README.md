@@ -208,6 +208,6 @@ batchid INTEGER
 
 - EER FULL DIAGRAM
 ![alt text](image.png)
-
+     - **EER DIAGRAM**
 ![alt text](image-1.png)
 ![alt text](image-5.png)
