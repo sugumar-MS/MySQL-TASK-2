@@ -1,6 +1,7 @@
-- DESIGN DB MODEL FOR GUVI ZEN CLASS
+- **DESIGN DB MODEL FOR GUVI ZEN CLASS**
 
 ![alt text](image-3.png)
+
 ![alt text](image-4.png)
 
 - CREATE TABLE users (
